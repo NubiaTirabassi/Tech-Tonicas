@@ -2,18 +2,13 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=35&center=true&vCenter=true&width=1000&lines=Hi!+We+are+the+Tech-Tônicas;We+are+from+every+corner+of+Brazil;We+are+programming+students;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h1>Nós conheçam:</h1>
+<h1>Nos conheçam:</h1>
 <p>Monitora: Helaine Ribeiro</p>
 <p>Vice monitora: Bianca Lima</p>
 <p>Integrante: Priscila Zaidel</p>
 <p>Integrante: Núbia Gonçalves</p>
 <p>Integrante: Emily Ferreira</p>
-<p>Integrante: Priscylla sousa</p>
-<p>Integrante: Bárbara Costa</p>
-<p>Integrante: Caroline Dantas</p>
 <p>Integrante: Karine Farias</p>
-<p>Integrante: Samira Cavalcanti</p>
-<p>Integrante: Gildeane Araújo</p>
 
 
 <div  align="center">
